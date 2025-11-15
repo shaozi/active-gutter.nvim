@@ -22,4 +22,4 @@ Dim makes it hard to read, and the amount of dim is not enough.
 
 Simply add this plugin and that is it.
 
-[Screencast](./active-gutter.nvim.mov)
+![Screencast](./active-gutter.nvim.gif)
